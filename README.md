@@ -4,7 +4,7 @@
 
 This repository contains the tasks that I completed while working as an intern for [The Sparks Foundation.](https://www.thesparksfoundationsingapore.org/)
 - **Internship Category** - Data Science and Business Analytics
-- **Internship Duration** - 1 Month ( October-2020 )
+- **Internship Duration** - 1 Month ( October-2021 )
 - **Internship Type** - Work from Home
 
 In this internship, we were provided multiple Tasks and I was able to successfully complete them within the given time-frame.
